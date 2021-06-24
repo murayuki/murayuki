@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/badge/Github-000.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/murayuki)
 [![Discord](https://img.shields.io/badge/Discord-7289da.svg?&style=for-the-badge&logo=Discord&logoColor=white)]() 
 
-### Related things you have learned (some things are not familiar):
+### Related things I have learned (some things are not familiar):
 <p>
   <a href="https://github.com/murayuki">
     <img width="55%" align="right" alt="MuraYuki's github stats(dark)" src="https://github-readme-stats.vercel.app/api?username=murayuki&show_icons=true&count_private=true&theme=dark" />
