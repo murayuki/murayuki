@@ -32,5 +32,4 @@
 </p>
 
 ### About me and contact me
-- 📫 MyDiscord `MuraYuki#0728`
 - ⭐️ From [MuraYuki](https://github.com/murayuki)
